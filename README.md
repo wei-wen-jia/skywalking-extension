@@ -3,6 +3,8 @@ The Reason Why I forked?
 
 Since the bug below won't be fixed as mentioned below.
 
+We are facing the same issue in our production. 
+
 We have to fix and maintain ourselves.
 
 (https://github.com/apache/skywalking/discussions/8744) **Java agent cause high CPU usage***
